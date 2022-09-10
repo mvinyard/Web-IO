@@ -5,7 +5,7 @@ import sys
 
 
 setup(
-    name="WebIO",
+    name="Web-IO",
     version="0.0.0",
     python_requires=">3.7.0",
     author="Michael E. Vinyard - Harvard University - Massachussetts General Hospital - Broad Institute of MIT and Harvard",
