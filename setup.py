@@ -13,7 +13,7 @@ setup(
     url="",
     long_description=open("README.md", encoding="utf-8").read(),
     long_description_content_type="text/markdown",
-    description="Python Developer Kit",
+    description="Download and read files from the web.",
     packages=[
         "WebFiles",
     ],
