@@ -5,7 +5,7 @@ import sys
 
 
 setup(
-    name="Web-IO",
+    name="WebFiles",
     version="0.0.0",
     python_requires=">3.7.0",
     author="Michael E. Vinyard - Harvard University - Massachussetts General Hospital - Broad Institute of MIT and Harvard",
@@ -15,7 +15,7 @@ setup(
     long_description_content_type="text/markdown",
     description="Python Developer Kit",
     packages=[
-        "web_io",
+        "WebFiles",
     ],
     install_requires=[
         "wget>=3.2",
