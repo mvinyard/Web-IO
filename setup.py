@@ -15,7 +15,7 @@ setup(
     long_description_content_type="text/markdown",
     description="Download and read files from the web.",
     packages=[
-        "WebFiles",
+        "web_files",
     ],
     install_requires=[
         "wget>=3.2",
