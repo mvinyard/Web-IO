@@ -1,6 +1,10 @@
 # WebFiles
 Download files hosted on the internet and parse with python
 
+### Installation
+```
+pip install webfiles
+```
 
 ### Core class construct:
 
